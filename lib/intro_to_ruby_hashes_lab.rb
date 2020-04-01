@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  Hash.new{
+  Hash.new{:name}
 end
 
 def pioneer
