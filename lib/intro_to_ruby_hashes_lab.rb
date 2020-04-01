@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  Hash.new[:name] = "Grace Hopper"
+  Hash.new[:name] => "Grace Hopper"
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
